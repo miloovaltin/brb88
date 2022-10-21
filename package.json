@@ -1,17 +1,16 @@
-
 {
-"name": "brb88",
-"theme": "brb88",
-"version": "6.6.7",
-"description": "brb88 สมัครเว็บไซต์บาคาร่าเว็บตรง ระบบออโต้ รับโบนัสเครดิตฟรี",
-"keywords": [
-"brb88",
-"brb88 เครดิตฟรี",
-"brb88 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/brb88",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "brb88",
+  "theme": "brb88",
+  "version": "6.7.0",
+  "description": "brb88 สมัครเว็บไซต์บาคาร่าเว็บตรง ระบบออโต้ รับโบนัสเครดิตฟรี",
+  "keywords": [
+    "brb88",
+    "brb88 เครดิตฟรี",
+    "brb88 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/brb88",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
